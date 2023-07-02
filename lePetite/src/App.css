@@ -1,0 +1,47 @@
+* {margin:0;
+  padding:0;
+  box-sizing: border-box  ;
+
+}
+
+.header{
+   background-color:rgb(141, 245, 141);
+  
+}
+
+.headerContainer{
+   display: flex;
+   justify-content:space-between;
+   align-items: center;
+   padding: 8rem;
+ 
+}
+
+
+.Navbar{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 70px;
+   font-size: larger;
+   list-style: none;
+}
+
+.linkNavbar{
+  color: black;
+}
+
+
+.contenedor{
+  font-size: large;
+  font-weight: bolder;
+  }
+
+  .logo{
+     width:9rem;
+     border-radius: 30%;
+  }
+  .carrito{
+      width:3rem ;
+      border-radius: 60%;
+  }
