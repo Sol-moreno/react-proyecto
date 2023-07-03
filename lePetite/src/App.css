@@ -13,10 +13,12 @@
    display: flex;
    justify-content:space-between;
    align-items: center;
-   padding: 8rem;
+   
  
 }
-
+ .nav {
+   display: flex;
+ }
 
 .Navbar{
    display: flex;
@@ -25,10 +27,14 @@
    gap: 70px;
    font-size: larger;
    list-style: none;
+   max-width: auto;
+   
 }
 
 .linkNavbar{
   color: black;
+  text-decoration: none;
+  font-weight: bolder;
 }
 
 
