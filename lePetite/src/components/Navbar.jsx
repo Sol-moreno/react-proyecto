@@ -1,7 +1,6 @@
 import logo from "../assets/logo.jpg"
 import { CartWidget } from "./CartWidget"
 
-
 export const Navbar = () => {
 
     let productosEnCarrito = 0
