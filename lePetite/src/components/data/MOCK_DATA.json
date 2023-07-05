@@ -1,0 +1,48 @@
+
+
+   [
+
+    { "id": 1,
+       "nombre":"Figura Capitan America",
+        "descripcion":"Realizada con resina, pintada a mano con cabeza intercambiable",
+       " precio": 1000,
+        "img":"/capitanAmerica.jpg"
+    } ,
+
+    { "id": 2,
+       "nombre":"Producto 2",
+        "descripcion": "Esta figura esta hecha de resina con cabeza intercambiable",
+        "precio": 1000,
+        "img":""
+    } ,
+
+    { "id": 3,
+        "nombre":"Producto 3 ",
+        "descripcion":"Esta figura esta hecha de resina con cabeza intercambiable",
+       " precio": 1000,
+        "img":""
+    } ,
+
+    { "id": 4,
+        "nombre":"Producto 4",
+        "descripcion":" Esta figura esta hecha de resina con cabeza intercambiable",
+        "precio": 1000,
+        "img":""
+    },
+    
+    { "id": 5,
+        "nombre":"Producto 5",
+        "descripcion":" Esta figura esta hecha de resina con cabeza intercambiable",
+        "precio": 1000,
+        "img":""
+    } ,
+
+    { "id": 6,
+        "nombre":"Producto 6 ",
+        "descripcion": "Esta figura esta hecha de resina con cabeza intercambiable",
+       " precio": 1000,
+        "img":""
+    }
+
+
+     ]
