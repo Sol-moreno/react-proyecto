@@ -22,10 +22,10 @@ return (
            
             <img className="logo" src={logo}></img>
             <ul className="Navbar">
-            <li><a href="" className="linkNavbar">Home</a></li>
-            <li><a href="" className="linkNavbar">Productos</a></li>
-             <li><a href=""  className="linkNavbar">Quienes Somos</a></li>
-             <li><a href="" className="linkNavbar"> Contacto</a></li>
+            <li className="linkNavbar">Inicio</li>
+            <li className="linkNavbar">Productos</li>
+             <li className="linkNavbar">Quienes Somos</li>
+             <li className="linkNavbar"> Contacto</li>
           
             </ul>
              

@@ -13,36 +13,57 @@
        "nombre":"Producto 2",
         "descripcion": "Esta figura esta hecha de resina con cabeza intercambiable",
         "precio": 1000,
-        "img":""
+        "img":"https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/313380028_5685411648147694_2026262681807979622_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFmNBlpG6PiFzaSbCVTQdGgsGI2GM5vIt6wYjYYzm8i3tVgujLxRkt2_6Ylx145sYU&_nc_ohc=waFvei2UEz8AX__020e&_nc_ht=scontent.fsla4-1.fna&oh=00_AfB0G5aRficLy53iXxTJRQVdwnx0D-T9GdphqLvgGAAf-A&oe=64B70879"
     } ,
 
     { "id": 3,
         "nombre":"Producto 3 ",
         "descripcion":"Esta figura esta hecha de resina con cabeza intercambiable",
        " precio": 1000,
-        "img":""
+        "img":"https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/341867321_883912736046012_7973047933980925887_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFkcWliOmVzky5cDySKlTqIIM6O2cz9VWsgzo7ZzP1Va6rDZ3tzsQ_OKsLwBOZMp1c&_nc_ohc=vtGuq5I9VV8AX_hNaf_&_nc_ht=scontent.fsla4-1.fna&oh=00_AfD428X3-2QbVpkH2hd10v1Hi3Om2cg6PwDq3C6zvIAjMg&oe=64B708D5"
     } ,
 
     { "id": 4,
         "nombre":"Producto 4",
         "descripcion":" Esta figura esta hecha de resina con cabeza intercambiable",
         "precio": 1000,
-        "img":""
+        "img":"https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/314353991_5711256265563232_2819683138168682931_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHBVtcDGkFSCiGQRFSfCIW_ar_DmLc30Bdqv8OYtzfQF-O1EHCjPFGsp6GS39MKvQ0&_nc_ohc=G4S2vTfdL0kAX8fY01x&_nc_ht=scontent.fsla4-1.fna&oh=00_AfBve9thbx4nqlJZBpaqEOzG3IU0sC0TQy-vquyIZdrTuQ&oe=64B5D37F "
     },
     
     { "id": 5,
         "nombre":"Producto 5",
         "descripcion":" Esta figura esta hecha de resina con cabeza intercambiable",
         "precio": 1000,
-        "img":""
+        "img":"https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/317470774_5768637733158418_4178949687967890314_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHfweXCkBy9WJlIM6XgA7JJfqH-N10-PyF-of43XT4_IeC6wAwaEz7QdWYNojl0iJo&_nc_ohc=qYdCs9Yq5ZMAX9JQg-q&_nc_ht=scontent.fsla4-1.fna&oh=00_AfDTGfNtgLAHCag25T06S4gULUd2f5C3ZfD1LG0fJZKF0g&oe=64B6375E"
     } ,
 
     { "id": 6,
         "nombre":"Producto 6 ",
         "descripcion": "Esta figura esta hecha de resina con cabeza intercambiable",
        " precio": 1000,
-        "img":""
-    }
+        "img":"https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/314672560_5711270725561786_3817479775075288381_n.jpg?stp=dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQoDp1exJlje8ItJeMdMO40JAyaUO01ZPQkDJpQ7TVk-Eus1rwLLpGKGj2rK75cqg&_nc_ohc=jhaLOT0Vn5sAX-_7Wv-&_nc_ht=scontent.fsla4-1.fna&oh=00_AfBgB7x-SUdDenRKlNMrBfJktqb2or-Zr6c1h3PQgttuzQ&oe=64B6D07F"
+    },
+
+    { "id": 7,
+    "nombre":"Figura Capitan America",
+     "descripcion":"Realizada con resina, pintada a mano con cabeza intercambiable",
+    " precio": 1000,
+     "img":" https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/297836431_5455033274518867_852149447902844882_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGbAQb-TIgl5oOe9_rF7ATlffpncMy6Dbl9-mdwzLoNuf7WiyafVHffavUn3RCitT8&_nc_ohc=aHNA73SAG_4AX_FdNp8&_nc_ht=scontent.fsla4-1.fna&oh=00_AfA-br4DiTrdbNvtP4IODipw5DfZ16JKV9zJa0N7JrhnFA&oe=64B71BB9"
+     } ,
+    { "id": 8,
+ "nombre":"Figura Capitan America",
+  "descripcion":"Realizada con resina, pintada a mano con cabeza intercambiable",
+ " precio": 1000,
+  "img":" https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/298790636_5455038397851688_5634830481072626034_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGIJffVJTosIIRcAud0WFC7LGeTPlubFkQsZ5M-W5sWRIiME1IbFy4HhGOwLsBEU4E&_nc_ohc=Zy8PPNxSUKsAX-IQMu8&_nc_ht=scontent.fsla4-1.fna&oh=00_AfAzTz0ex4bonGDNX4f_hikHuZtzVOUsApCCyMoaT4hdWA&oe=64B778C1"
+} ,
+{ "id": 9,
+"nombre":"Figura Capitan America",
+ "descripcion":"Realizada con resina, pintada a mano con cabeza intercambiable",
+" precio": 1000,
+ "img":"https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/309548902_5611604622195064_8943460888884298636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHaLfP3rtO6xCTp0xkClwyq3jtK3zSNWWjeO0rfNI1ZaKd6nsLdqYhSsp9gyfYecCU&_nc_ohc=PcWntyWoTxcAX-PNvZz&_nc_ht=scontent.fsla4-1.fna&oh=00_AfDpvCxSNXRoSJ_ODp4cBumKJf3R7pibH5ik8JqP3zfSDQ&oe=64B645DC"
+} 
+
+
 
 
      ]
