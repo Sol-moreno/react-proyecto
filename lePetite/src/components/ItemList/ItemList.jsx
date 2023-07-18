@@ -1,7 +1,7 @@
 
 
 
- export const ItemListContainer =({productos}) => {
+  const ItemList =({productos}) => {
 
 return (
     <div className='conteiner'>
@@ -17,7 +17,7 @@ return (
         <h4>{prod.nombre}</h4>
         <img className='imagencard' src={prod.img} alt="prod.imagen" />
         <p>{prod.descripcion}</p>
-        <p>Precio:${prod.precio}</p>
+        <p> $ {prod.precio}</p>
         <button className='btn btn-primary'> Agregar al Carrito</button>
     </div>
 
@@ -53,4 +53,4 @@ return (
 
 
 
-export default ItemListContainer
+export default ItemList
