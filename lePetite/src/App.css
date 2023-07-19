@@ -1,5 +1,5 @@
 * {margin:0;
-  padding:0;
+  padding:0; 
   box-sizing: border-box  ;
 
 }
@@ -26,7 +26,7 @@
    justify-content: center;
    margin-left: 17rem ;
    gap: 70px;
-   font-size: larger;
+   font-size:small;
    list-style: none;
    
    
@@ -80,9 +80,35 @@
     }
 
     .imagencard{
-      width: 23rem;
+      width: 20rem;
+      height: 22rem;
     }
 
     .flor{
     width: 23rem;
     }
+
+   .tituloP{
+    margin-top: 4rem;
+    margin-left: 36rem;
+   }
+
+   .titulocard{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 3rem;
+   }
+   .precio{
+    font-size: medium;
+    font-weight: bolder;
+    margin-left: 4rem;
+   }
+
+
+
+
+
+
+
+
+    

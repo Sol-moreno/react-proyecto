@@ -4,11 +4,11 @@ const Contacto =() =>{
     return(
 
         <div>
-            <hr />
             <h2>
                 CONTACTO
             </h2>
 
+            <hr />
 
 
        

@@ -1,3 +1,4 @@
+import ItemCard from "../ItemCard/itemCard"
 
 
 
@@ -5,42 +6,20 @@
 
 return (
     <div className='conteiner'>
-    <h2>
-        PRODUCTOS
+    <h2 className="tituloP">
+        Productos
     </h2>
     <hr />
 
-    <div className='row'> 
-    { 
-    productos.map ((prod) =>(
-    <div key={prod.id} className='col-3 m-2'>
-        <h4>{prod.nombre}</h4>
-        <img className='imagencard' src={prod.img} alt="prod.imagen" />
-        <p>{prod.descripcion}</p>
-        <p> $ {prod.precio}</p>
-        <button className='btn btn-primary'> Agregar al Carrito</button>
-    </div>
+    <div className='row'> {
 
-
-
-
-    )
-    
-    
-    
-    )
-
+    productos.map ((prod) =>
+     <ItemCard key={prod.id} item={prod}/>)
+      
     }
-     </div>
-
-
+    
 </div>
-
-
-
-
-
-
+</div>
 )
 }
 
@@ -49,7 +28,8 @@ return (
 
 
 
-
+    
+    
 
 
 
