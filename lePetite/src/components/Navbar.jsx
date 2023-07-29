@@ -26,7 +26,7 @@ return (
             <Link className="linkNavbar" to="/">Inicio</Link>
             <Link className="linkNavbar" to="/productos/figuras anime">Figuras de Anime</Link>
             <Link className="linkNavbar" to="/productos/macetas">Macetas</Link>
-            <Link className="linkNavbar" to="/productos/llaveros">Llaveros</Link>
+            <Link className="linkNavbar" to="/productos/varios">Varios</Link>
              <Link className="linkNavbar" to= "/QuienesSomos">Quienes Somos</Link>
              <Link className="linkNavbar" to= "/Contacto"> Contacto</Link>
           

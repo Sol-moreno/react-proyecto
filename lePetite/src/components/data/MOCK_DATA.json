@@ -5,15 +5,17 @@
         "descripcion": "Realizada con resina, pintada a mano con cabeza intercambiable",
         "precio": 8000,
         "img": "/capitanAmerica.jpg",
-        "categoria":"figuras anime"
+        "categoria":"figuras anime",
+         "stock": 4
     },
     {
         "id": 2,
         "nombre": "Mario Bros Porta Joisting",
         "descripcion": "Figura realizada con impresora 3d ",
         "precio": 5000,
-        "img": "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/313380028_5685411648147694_2026262681807979622_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFmNBlpG6PiFzaSbCVTQdGgsGI2GM5vIt6wYjYYzm8i3tVgujLxRkt2_6Ylx145sYU&_nc_ohc=waFvei2UEz8AX__020e&_nc_ht=scontent.fsla4-1.fna&oh=00_AfB0G5aRficLy53iXxTJRQVdwnx0D-T9GdphqLvgGAAf-A&oe=64B70879",
-        "categoria":"figuras anime"
+        "img": "/mariobross.jpg",
+        "categoria":"figuras anime",
+        "stock": 6
     },
      
     {
@@ -21,8 +23,9 @@
         "nombre": "Silver Surfer ",
         "descripcion": "Silver Surfer es un personaje ficticio de cómic del Universo Marvel creado por Jack Kirby,su primera aparición fue en Los 4 Fantásticos.Figura en resina con base PLA y pintado con aerógrafo, medidas 28x36x16,5 cm aproximadamente. Figura de colección",
         "precio": 7000,
-        "img": "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/341867321_883912736046012_7973047933980925887_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFkcWliOmVzky5cDySKlTqIIM6O2cz9VWsgzo7ZzP1Va6rDZ3tzsQ_OKsLwBOZMp1c&_nc_ohc=vtGuq5I9VV8AX_hNaf_&_nc_ht=scontent.fsla4-1.fna&oh=00_AfD428X3-2QbVpkH2hd10v1Hi3Om2cg6PwDq3C6zvIAjMg&oe=64B708D5",
-        "categoria":"figuras anime"
+        "img": "/silversurfer.pgn.jpg",
+        "categoria":"figuras anime",
+        "stock": 2
     },
     
     {
@@ -30,48 +33,283 @@
         "nombre": "Maceta Gatito ",
         "descripcion": " Amamos nuestras nuevas macetitas con su plantita Astrophytum, que es un género de cactus con 6 especies diferentes.  Astrophytum: nombre genérico que significa planta con forma de estrella ",
         "precio": 2000,
-        "img": "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/314353991_5711256265563232_2819683138168682931_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHBVtcDGkFSCiGQRFSfCIW_ar_DmLc30Bdqv8OYtzfQF-O1EHCjPFGsp6GS39MKvQ0&_nc_ohc=G4S2vTfdL0kAX8fY01x&_nc_ht=scontent.fsla4-1.fna&oh=00_AfBve9thbx4nqlJZBpaqEOzG3IU0sC0TQy-vquyIZdrTuQ&oe=64B5D37F ",
-        "categoria":"macetas"
+        "img": "/gatitocactus.jpg ",
+        "categoria":"macetas",
+        "stock": 10
     },
     
     {
         "id": 5,
-        "nombre": "Maceta Elefante",
+        "nombre": "Maceta mi mejor amigo",
         "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
         "precio": 1000,
-        "img": "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/317470774_5768637733158418_4178949687967890314_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHfweXCkBy9WJlIM6XgA7JJfqH-N10-PyF-of43XT4_IeC6wAwaEz7QdWYNojl0iJo&_nc_ohc=qYdCs9Yq5ZMAX9JQg-q&_nc_ht=scontent.fsla4-1.fna&oh=00_AfDTGfNtgLAHCag25T06S4gULUd2f5C3ZfD1LG0fJZKF0g&oe=64B6375E",
-        "categoria":"macetas"
+        "img": "/macetaperrito.jpg ",
+        "categoria":"macetas",
+        "stock": 8
     },
     {
         "id": 6,
         "nombre": "Maceta Meditar",
         "descripcion": "Maceta Meditar de la coleccion zen , colores personalizados , realizada con impresora 3D",
         "precio": 2000,
-        "img": "https://scontent.fsla3-1.fna.fbcdn.net/v/t39.30808-6/314490574_5731324930223032_2524392287430556713_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHqWgVLm8Ps8t-aEfIXG9KMBUUOl03PmTIFRQ6XTc-ZMhudFbDAiqCho5cMWKBdaxA&_nc_ohc=pS2KqW99FtsAX8zyhle&_nc_ht=scontent.fsla3-1.fna&oh=00_AfArabQmpgf33kPDtfn7e77YVDo0AU5ripsexgfwmFLPhg&oe=64BB7545 ",
-        "categoria":"macetas"
+        "img": "/macetabuda.jpg",
+        "categoria":"macetas",
+        "stock": 12
     },
     {
         "id": 7,
         "nombre": "Figura Yoda",
         "descripcion": " Hermosa cabeza de Yoda , tenemos la figura de baby yoda tambien , todo realizado con impresora 3D , con la mejor calidad ",
         "precio": 4000,
-        "img": " https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/297836431_5455033274518867_852149447902844882_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGbAQb-TIgl5oOe9_rF7ATlffpncMy6Dbl9-mdwzLoNuf7WiyafVHffavUn3RCitT8&_nc_ohc=aHNA73SAG_4AX_FdNp8&_nc_ht=scontent.fsla4-1.fna&oh=00_AfA-br4DiTrdbNvtP4IODipw5DfZ16JKV9zJa0N7JrhnFA&oe=64B71BB9",
-        "categoria":"figuras anime"
+        "img": "/yoda.jpg ",
+        "categoria":"figuras anime",
+        "stock": 3
     },
     {
         "id": 8,
         "nombre": "Mandalorian",
         "descripcion": "Figura de coleccion , realizada con impresora 3D , tambien puede realizarse con resina a pedido ",
         "precio": 3000,
-        "img": " https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/298790636_5455038397851688_5634830481072626034_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGIJffVJTosIIRcAud0WFC7LGeTPlubFkQsZ5M-W5sWRIiME1IbFy4HhGOwLsBEU4E&_nc_ohc=Zy8PPNxSUKsAX-IQMu8&_nc_ht=scontent.fsla4-1.fna&oh=00_AfAzTz0ex4bonGDNX4f_hikHuZtzVOUsApCCyMoaT4hdWA&oe=64B778C1",
-        "categoria":"figuras anime"
+        "img": "/mandalorian.jpg ",
+        "categoria":"figuras anime",
+        "stock": 5
     },
     {
         "id": 9,
+        "nombre": "Baby Yoda",
+        "descripcion": " Figura pintada con aerografo ",
+        "precio": 3000,
+        "img": "/babyyodajpg.jpg ",
+        "categoria":"figuras anime",
+        "stock": 4
+    },
+    {
+        "id": 10,
+        "nombre": "Figura Batman",
+        "descripcion": " Figura 3d printing",
+        "precio": 3000,
+        "img": "/batman.jpg ",
+        "categoria":"figuras anime",
+        "stock": 7
+    },
+    {
+        "id": 11,
+        "nombre": "Busto Mimir",
+        "descripcion": "Busto de Mimir 20 cm de altura. Mimir es el Dios de la Sabiduría y el Conocimiento, conocido popularmente por ser el hombre vivo más listo, es un ser de gran inteligencia que sirvió como consejero de odin hasta que este le aprisionó en un árbol durante 109 inviernos. ",
+        "precio": 3000,
+        "img": "/bustosabiduria.jpg",
+        "categoria":"figuras anime",
+        "stock": 2
+    },
+    {
+        "id":12,
+        "nombre": "Busto Vegeta",
+        "descripcion": "Busto majin vegeta 13 cm de altura  ",
+        "precio": 3000,
+        "img": "/bustovegetajpg.jpg ",
+        "categoria":"figuras anime",
+        "stock": 5
+    },
+    {
+        "id": 13,
+        "nombre": "Busto Capitan America",
+        "descripcion": " Figura de 20cm de altura ",
+        "precio": 3000,
+        "img": "/figuraalitas.jpg ",
+        "categoria":"figuras anime",
+        "stock": 4
+    },
+    {
+        "id": 14,
+        "nombre": "iron Man",
+        "descripcion": "Figurita iron man 15 cm de altura ",
+        "precio": 3000,
+        "img": "/figuraironman.jpg ",
+        "categoria":"figuras anime",
+        "stock": 3
+    },
+    {
+        "id": 15,
+        "nombre": "Busto Predator",
+        "descripcion": "Busto de predator echo en resina con base en pla a pedido ",
+        "precio": 3000,
+        "img": "/predador.jpg",
+        "categoria":"figuras anime",
+        "stock": 2
+    },
+    {
+        "id": 16,
+        "nombre": "Soporte Calavera",
+        "descripcion": "Soporte para audifonos calavera ",
+        "precio": 1000,
+        "img": "/calaveraportaauri.jpg",
+        "categoria":"varios",
+        "stock": 12
+    },
+
+    {
+        "id": 17,
+        "nombre": "Honguitos Mario",
+        "descripcion": "Cajitas Mario Bross , para guardar lo que quieras. ",
+        "precio": 1000,
+        "img": "/macetasongo.png",
+        "categoria":"varios",
+        "stock": 20
+    },
+    {
+        "id": 18,
+        "nombre": "Soporte Darthvader",
+        "descripcion": " Soporte para auricular",
+        "precio": 1000,
+        "img": "/portaauristar.jpg",
+        "categoria":"varios",
+        "stock": 15
+    },
+    {
+        "id": 19,
         "nombre": "Llaveros Emogis",
         "descripcion": "llaveros bebito fiu fiu , ideal para regalar para el dia del amigo ",
         "precio": 1000,
-        "img": "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/309548902_5611604622195064_8943460888884298636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHaLfP3rtO6xCTp0xkClwyq3jtK3zSNWWjeO0rfNI1ZaKd6nsLdqYhSsp9gyfYecCU&_nc_ohc=PcWntyWoTxcAX-PNvZz&_nc_ht=scontent.fsla4-1.fna&oh=00_AfDpvCxSNXRoSJ_ODp4cBumKJf3R7pibH5ik8JqP3zfSDQ&oe=64B645DC",
-        "categoria":"llaveros"
+        "img": "/llaveros.jpg",
+        "categoria":"varios",
+        "stock": 50
+    },
+    {
+        "id": 20,
+        "nombre": " Soporte Señor de los Anillos",
+        "descripcion": "Soporte para auricular",
+        "precio": 1000,
+        "img": "/lordkinhportaauri.jpg",
+        "categoria":"varios",
+        "stock": 17
+    },
+    {
+        "id": 21,
+        "nombre": " Mugman ",
+        "descripcion": "Para soporte de joystick ",
+        "precio": 1000,
+        "img": "/pinichio.jpg",
+        "categoria":"varios",
+        "stock": 17
+    },
+    {
+        "id": 22,
+        "nombre": "Mate Potter",
+        "descripcion": "Mate Harry Potter , para ponerle magia a tus mates  ",
+        "precio": 1000,
+        "img": "/matehp.png",
+        "categoria":"varios",
+        "stock": 15
+    },
+   
+    {
+        "id": 24,
+        "nombre": "Maceta Expresión",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/cara.jpg ",
+        "categoria":"macetas",
+        "stock": 8
+    },
+    {
+        "id": 25,
+        "nombre": "Maceta Erizo",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/erizo.jpg ",
+        "categoria":"macetas",
+        "stock": 9
+    },
+    {
+        "id": 26,
+        "nombre": "Maceta Amor de familia",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/flia.jpg",
+        "categoria":"macetas",
+        "stock": 11
+    },
+  
+    {
+        "id": 27,
+        "nombre": "Maceta Amarilla",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/macetaamarilla.jpg ",
+        "categoria":"macetas",
+        "stock": 23
+    },
+    {
+        "id": 28,
+        "nombre": "Maceta Cactus",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/macetacactus.jpg",
+        "categoria":"macetas",
+        "stock": 20
+    },
+    {
+        "id": 29,
+        "nombre": " Maceta Elefante",
+        "descripcion": "  Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/macetaelefate.jpg ",
+        "categoria":"macetas",
+        "stock": 20
+    },
+    {
+        "id": 30,
+        "nombre": " Gato Feliz",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/gatitocactus.jpg ",
+        "categoria":"macetas",
+        "stock": 14
+    },
+    {
+        "id": 31,
+        "nombre": "Gato Durmiente ",
+        "descripcion": " Figura realizada con impresora 3D , tamaño y diseño personalizado  ",
+        "precio": 1000,
+        "img": "/macetagatitojpg.jpg ",
+        "categoria":"macetas",
+        "stock": 10
+    },
+    {
+        "id": 32,
+        "nombre": "Maceta Pregnant",
+        "descripcion": " Macetitas minis , ideal para regalo de dulce espera ",
+        "precio": 1000,
+        "img": "/macetapregnant.jpg ",
+        "categoria":"macetas",
+        "stock": 12
+    
+    },
+    {
+        "id": 33,
+        "nombre": "Maceta Schnauzer",
+        "descripcion": " Hermosas macetas perro schnauzer con con sistema de regado desde bajo, modelo nuevo y recién salido, consulten por los suyos  ",
+        "precio": 1000,
+        "img": "/macetaschnauzer.jpg ",
+        "categoria":"macetas",
+        "stock": 12
+    },
+    {
+        "id": 34,
+        "nombre": "Maceta Botita",
+        "descripcion": " Maceta realizada con impresora 3D, realizamos en varios colores y tamaños",
+        "precio": 1000,
+        "img": "/macetazapato.jpg",
+        "categoria":"macetas",
+        "stock": 13
+    },
+    {
+        "id": 35,
+        "nombre": " Los Tres Monos Sabios",
+        "descripcion": " Macetas colección : No ver mal, no oir el mal , no decir el mal . Traducción del codigo moral chino del Santai .    ",
+        "precio": 1000,
+        "img": "/monito.jpg ",
+        "categoria":"macetas",
+        "stock": 10
     }
 ]
