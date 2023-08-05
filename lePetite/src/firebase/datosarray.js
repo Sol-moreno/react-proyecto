@@ -1,4 +1,4 @@
- import MOCK_DATA from "../data/MOCK_DATA.json"   assert { type:'json'}
+ import MOCK_DATA from "../data/MOCK_DATA.json" assert {type:'json'}
  import{db} from './config.js'
  import{collection, addDoc} from 'firebase/firestore'
 
