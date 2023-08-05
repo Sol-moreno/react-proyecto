@@ -127,6 +127,31 @@
 
 
 
+   .fondo-footer {
+    background: linear-gradient(165deg, rgba(245, 244, 242, 0.719), rgba(238, 178, 13, 0.795), rgba(201, 190, 170, 0.842));
+  }
+  
+  .texto-footer {
+    text-align: center;
+  }
+  
+  .redes-footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between ;
+    align-items:center;
+    width: 30%;
+    margin-left: 35%;
+  }
+  
+  .redes {
+    width: 20%;
+    display:inline;
+    position:relative;
+  }
+
+
+
 
 
 

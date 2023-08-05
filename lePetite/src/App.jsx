@@ -6,14 +6,19 @@ import QuienesSomos from './components/QuienesSomos'
 import Contacto from './components/Contacto'
  import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom"
 import ItemDetailContainer from './components/ItemDetailConteiner/ItemDetailConteiner'
-import { CartContext } from './components/Contexto/CartContext'
+import Footer from './components/footer/footer'
+// import CartView from './components/CartView/CartView'
 import './App.css'
 
-function App() {
 
+
+
+function App() {
+ 
   return (
-    <CartContext.Provider>
-         <BrowserRouter>
+
+  
+     <BrowserRouter>
       <Navbar/>
 
          <Routes>
@@ -23,15 +28,19 @@ function App() {
          <Route path= "/detail/:itemId" element= {<ItemDetailContainer/>}  />
          <Route path= "/Contacto" element= {<Contacto/>}  />
          <Route path= "/QuienesSomos" element= {<QuienesSomos/>}  />
+         {/* { <Route path="/cart" element={ <CartView /> }/> } */}
          <Route path= "*" element= {<Navigate to ="/"/>}  />
           
 
          </Routes>
 
-             
+         <Footer/>
+      
          </BrowserRouter>
 
-    </CartContext.Provider>
+        
+      
+     
   ) 
 }
 

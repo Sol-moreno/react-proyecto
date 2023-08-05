@@ -1,34 +1,59 @@
-import { useState } from "react"
-import ItemCount from "../ItemCount/ItemCount"
 
+import {useContext, useState } from "react"
+import ItemCount from "../ItemCount/ItemCount"
+// import { CartContext } from "../../Contexto/CartContext"
+import { Link } from "react-router-dom"
+import Card from 'react-bootstrap/Card'
 
 const ItemDetail = ({item}) => {
-    const [cantidad, setCantidad] = useState (1)
+    
 
+    const [cantidad, setCantidad] = useState(1)
+
+    const handleAgregar = () => {
+        
+              item,
+            cantidad
+    
+
+        
+    }
+    
     return (
-        <div className="container my-5">
-            <h2>{item.nombre}</h2>
-            <div className="bodyCard">
-            <img  className='imagencard'src={item.img} alt={item.nombre}/>
-            <p className="descripcionCard">{item.descripcion}</p>
-            <p>Precio: ${item.precio}</p>
 
-            <ItemCount
-             max={item.stock}
-             counter={cantidad}
-             setCounter= {setCantidad}
-            
-            />
-
-            <button className="btn btn-success m-2"> Agregar al Carrito</button>
-            
-             
-            </div>
-
-          </div>
+        <div className="row">
+        <Card style={{ width: '30rem' }}>
+        <Card.Title>{item.nombre}</Card.Title>
+        <Card.Body>
+        <Card.Img variant="top" src={item.img} alt= {item.nombre}/>
+          <Card.Title> {item.descripcion}</Card.Title>
+          <Card.Text>
+            $ {item.precio} </Card.Text>
+        </Card.Body>
+         </Card>
+        
+            {  
+                    
+                      <ItemCount 
+                        max={item.stock}
+                        cantidad={cantidad}
+                        setCantidad={setCantidad}
+                        agregar={handleAgregar}
+                    />
+            }
+                        
+        </div>
     )
         }
 
 
+
+   
+    
+
+       
+
+    
+      
 
 export default ItemDetail
